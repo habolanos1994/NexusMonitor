@@ -1,0 +1,12 @@
+{
+    "Sendto": [
+        {
+            "email": "armando.menchaca@dish.com",
+            "name": "Armando Menchaca"
+        },
+        {
+            "email": "Humberto.bolanos@dish.com",
+            "name": "Humberto Bolanos"
+        }
+    ]
+}

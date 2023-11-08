@@ -1,0 +1,618 @@
+[
+  {
+    "name": "OEE_MARK004.OEE",
+    "alias": "OEE",
+    "taggroup": "",
+    "PublishGroup": "Mark004",
+    "tagConvertion": "",
+    "value": 230.58102416992188
+  },
+  {
+    "name": "OEE_MARK004.Cell_ID",
+    "alias": "Cell_ID",
+    "taggroup": "",
+    "PublishGroup": "Mark004",
+    "tagConvertion": "",
+    "value": 2
+  },
+  {
+    "name": "OEE_MARK004.PartNumber",
+    "alias": "PartNumber",
+    "taggroup": "",
+    "PublishGroup": "Mark004",
+    "tagConvertion": "Buffer",
+    "value": "111"
+  },
+  {
+    "name": "OEE_MARK004.SelectedTaktTime",
+    "alias": "SelectedTaktTime",
+    "taggroup": "",
+    "PublishGroup": "Mark004",
+    "tagConvertion": "",
+    "value": 9.010000228881836
+  },
+  {
+    "name": "OEE_MARK004.Last_60min_Speed",
+    "alias": "Last_60min_Speed",
+    "taggroup": "",
+    "PublishGroup": "Mark004",
+    "tagConvertion": "",
+    "value": 9.449999809265137
+  },
+  {
+    "name": "OEE_MARK004.Last_5min_Speed",
+    "alias": "Last_5min_Speed",
+    "taggroup": "",
+    "PublishGroup": "Mark004",
+    "tagConvertion": "",
+    "value": 6.599999904632568
+  },
+  {
+    "name": "OEE_MARK004.AverageTaktTime",
+    "alias": "AverageTaktTime",
+    "taggroup": "",
+    "PublishGroup": "Mark004",
+    "tagConvertion": "",
+    "value": 3.596540927886963
+  },
+  {
+    "name": "OEE_MARK004.TargetProduction",
+    "alias": "TargetProduction",
+    "taggroup": "",
+    "PublishGroup": "Mark004",
+    "tagConvertion": "",
+    "value": 0
+  },
+  {
+    "name": "OEE_MARK004.OperatorID",
+    "alias": "OperatorID",
+    "taggroup": "",
+    "PublishGroup": "Mark004",
+    "tagConvertion": "",
+    "value": 0
+  },
+  {
+    "name": "OEE_MARK004.CellState",
+    "alias": "CellState",
+    "taggroup": "",
+    "PublishGroup": "Mark004",
+    "tagConvertion": "",
+    "value": 0
+  },
+  {
+    "name": "OEE_MARK004.AccPlannedRuntime",
+    "alias": "AccPlannedRuntime",
+    "taggroup": "",
+    "PublishGroup": "Mark004",
+    "tagConvertion": "",
+    "value": 289
+  },
+  {
+    "name": "OEE_MARK004.TotalDowntime",
+    "alias": "TotalDowntime",
+    "taggroup": "",
+    "PublishGroup": "Mark004",
+    "tagConvertion": "",
+    "value": 78
+  },
+  {
+    "name": "OEE_MARK004.TotalParts",
+    "alias": "TotalParts",
+    "taggroup": "",
+    "PublishGroup": "Mark004",
+    "tagConvertion": "",
+    "value": 3527
+  },
+  {
+    "name": "OEE_MARK004.GoodParts",
+    "alias": "GoodParts",
+    "taggroup": "",
+    "PublishGroup": "Mark004",
+    "tagConvertion": "",
+    "value": 3527
+  },
+  {
+    "name": "OEE_MARK004.Rejects",
+    "alias": "Rejects",
+    "taggroup": "",
+    "PublishGroup": "Mark004",
+    "tagConvertion": "",
+    "value": 0
+  },
+  {
+    "name": "OEE_MARK004.Quality",
+    "alias": "Quality",
+    "taggroup": "",
+    "PublishGroup": "Mark004",
+    "tagConvertion": "",
+    "value": 100
+  },
+  {
+    "name": "OEE_MARK004.Availability",
+    "alias": "Availability",
+    "taggroup": "",
+    "PublishGroup": "Mark004",
+    "tagConvertion": "",
+    "value": 92.04151916503906
+  },
+  {
+    "name": "OEE_MARK004.Performance",
+    "alias": "Performance",
+    "taggroup": "",
+    "PublishGroup": "Mark004",
+    "tagConvertion": "",
+    "value": 250.51849365234375
+  },
+  {
+    "name": "OEE_MARK004.Timer[0]",
+    "alias": "Idle",
+    "taggroup": "",
+    "PublishGroup": "Mark004",
+    "tagConvertion": "",
+    "value": 211
+  },
+  {
+    "name": "OEE_MARK004.Timer[1]",
+    "alias": "Starved",
+    "taggroup": "Downtime",
+    "PublishGroup": "Mark004",
+    "tagConvertion": "",
+    "value": 55
+  },
+  {
+    "name": "OEE_MARK004.Timer[2]",
+    "alias": "E-Stopped",
+    "taggroup": "Downtime",
+    "PublishGroup": "Mark004",
+    "tagConvertion": "",
+    "value": 0
+  },
+  {
+    "name": "OEE_MARK004.Timer[3]",
+    "alias": "BlockedByJackpot",
+    "taggroup": "Downtime",
+    "PublishGroup": "Mark004",
+    "tagConvertion": "",
+    "value": 20
+  },
+  {
+    "name": "OEE_MARK004.Timer[4]",
+    "alias": "Faulted",
+    "taggroup": "Downtime",
+    "PublishGroup": "Mark004",
+    "tagConvertion": "",
+    "value": 2
+  },
+  {
+    "name": "OEE_MARK004.Timer[5]",
+    "alias": "ChangeOver",
+    "taggroup": "Downtime",
+    "PublishGroup": "Mark004",
+    "tagConvertion": "",
+    "value": 1
+  },
+  {
+    "name": "OEE_MARK004.Timer[6]",
+    "alias": "BlockedByMark005",
+    "taggroup": "Downtime",
+    "PublishGroup": "Mark004",
+    "tagConvertion": "",
+    "value": 0
+  },
+  {
+    "name": "OEE_MARK004.Timer[7]",
+    "alias": "BlockedByMark008",
+    "taggroup": "Downtime",
+    "PublishGroup": "Mark004",
+    "tagConvertion": "",
+    "value": 0
+  },
+  {
+    "name": "OEE_MARK012.OEE",
+    "alias": "OEE",
+    "taggroup": "",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 233.52447509765625
+  },
+  {
+    "name": "OEE_MARK012.Cell_ID",
+    "alias": "Cell_ID",
+    "taggroup": "",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 3
+  },
+  {
+    "name": "OEE_MARK012.PartNumber",
+    "alias": "PartNumber",
+    "taggroup": "",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "Buffer",
+    "value": ""
+  },
+  {
+    "name": "OEE_MARK012.SelectedTaktTime",
+    "alias": "SelectedTaktTime",
+    "taggroup": "",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 4.767195701599121
+  },
+  {
+    "name": "OEE_MARK012.Last_60min_Speed",
+    "alias": "Last_60min_Speed",
+    "taggroup": "",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 22.616666793823242
+  },
+  {
+    "name": "OEE_MARK012.Last_5min_Speed",
+    "alias": "Last_5min_Speed",
+    "taggroup": "",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 14.800000190734863
+  },
+  {
+    "name": "OEE_MARK012.AverageTaktTime",
+    "alias": "AverageTaktTime",
+    "taggroup": "",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 1.5071930885314941
+  },
+  {
+    "name": "OEE_MARK012.TargetProduction",
+    "alias": "TargetProduction",
+    "taggroup": "",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 0
+  },
+  {
+    "name": "OEE_MARK012.OperatorID",
+    "alias": "OperatorID",
+    "taggroup": "",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 0
+  },
+  {
+    "name": "OEE_MARK012.CellState",
+    "alias": "CellState",
+    "taggroup": "",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 0
+  },
+  {
+    "name": "OEE_MARK012.AccPlannedRuntime",
+    "alias": "AccPlannedRuntime",
+    "taggroup": "",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 289
+  },
+  {
+    "name": "OEE_MARK012.TotalDowntime",
+    "alias": "TotalDowntime",
+    "taggroup": "",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 64
+  },
+  {
+    "name": "OEE_MARK012.TotalParts",
+    "alias": "TotalParts",
+    "taggroup": "",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 8969
+  },
+  {
+    "name": "OEE_MARK012.GoodParts",
+    "alias": "GoodParts",
+    "taggroup": "",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 8075
+  },
+  {
+    "name": "OEE_MARK012.Rejects",
+    "alias": "Rejects",
+    "taggroup": "",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 894
+  },
+  {
+    "name": "OEE_MARK012.Quality",
+    "alias": "Quality",
+    "taggroup": "",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 90.03011322021484
+  },
+  {
+    "name": "OEE_MARK012.Availability",
+    "alias": "Availability",
+    "taggroup": "",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 82.00691986083984
+  },
+  {
+    "name": "OEE_MARK012.Performance",
+    "alias": "Performance",
+    "taggroup": "",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 316.2962951660156
+  },
+  {
+    "name": "OEE_MARK012.Timer[0]",
+    "alias": "Runtime",
+    "taggroup": "",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 225
+  },
+  {
+    "name": "OEE_MARK012.Timer[1]",
+    "alias": "Iddle",
+    "taggroup": "Downtime",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 12
+  },
+  {
+    "name": "OEE_MARK012.Timer[2]",
+    "alias": "Blocked",
+    "taggroup": "Downtime",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 0
+  },
+  {
+    "name": "OEE_MARK012.Timer[3]",
+    "alias": "Starved",
+    "taggroup": "Downtime",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 17
+  },
+  {
+    "name": "OEE_MARK012.Timer[4]",
+    "alias": "Faulted",
+    "taggroup": "Downtime",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 28
+  },
+  {
+    "name": "OEE_MARK012.Timer[5]",
+    "alias": "EStopped",
+    "taggroup": "Downtime",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 7
+  },
+  {
+    "name": "OEE_MARK012.RejectsByType[0]",
+    "alias": "MultiRead",
+    "taggroup": "RejectsByType",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 29
+  },
+  {
+    "name": "OEE_MARK012.RejectsByType[1]",
+    "alias": "NoDataForPart",
+    "taggroup": "RejectsByType",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 61
+  },
+  {
+    "name": "OEE_MARK012.RejectsByType[2]",
+    "alias": "NoRead",
+    "taggroup": "RejectsByType",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 804
+  },
+  {
+    "name": "OEE_MARK012.RejectsByType[3]",
+    "alias": "MissDivert",
+    "taggroup": "RejectsByType",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 0
+  },
+  {
+    "name": "OEE_MARK012.RejectsByType[4]",
+    "alias": "GapTooSmall",
+    "taggroup": "RejectsByType",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 0
+  },
+  {
+    "name": "OEE_MARK012.RejectsByType[5]",
+    "alias": "LaneBusy",
+    "taggroup": "RejectsByType",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 0
+  },
+  {
+    "name": "SpurCounts[0]",
+    "alias": "Spur0",
+    "taggroup": "SpurCounts",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 0
+  },
+  {
+    "name": "SpurCounts[1]",
+    "alias": "Spur1",
+    "taggroup": "SpurCounts",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 12
+  },
+  {
+    "name": "SpurCounts[2]",
+    "alias": "Spur2",
+    "taggroup": "SpurCounts",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 1051
+  },
+  {
+    "name": "SpurCounts[3]",
+    "alias": "Spur3",
+    "taggroup": "SpurCounts",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 1121
+  },
+  {
+    "name": "SpurCounts[4]",
+    "alias": "Spur4",
+    "taggroup": "SpurCounts",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 698
+  },
+  {
+    "name": "SpurCounts[5]",
+    "alias": "Spur5",
+    "taggroup": "SpurCounts",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 1168
+  },
+  {
+    "name": "SpurCounts[6]",
+    "alias": "Spur6",
+    "taggroup": "SpurCounts",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 0
+  },
+  {
+    "name": "SpurCounts[7]",
+    "alias": "Spur7",
+    "taggroup": "SpurCounts",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 876
+  },
+  {
+    "name": "SpurCounts[8]",
+    "alias": "Spur8",
+    "taggroup": "SpurCounts",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 559
+  },
+  {
+    "name": "SpurCounts[9]",
+    "alias": "Spur9",
+    "taggroup": "SpurCounts",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 808
+  },
+  {
+    "name": "SpurCounts[10]",
+    "alias": "Spur10",
+    "taggroup": "SpurCounts",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 441
+  },
+  {
+    "name": "SpurCounts[11]",
+    "alias": "Spur11",
+    "taggroup": "SpurCounts",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 0
+  },
+  {
+    "name": "SpurCounts[12]",
+    "alias": "Spur12",
+    "taggroup": "SpurCounts",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 0
+  },
+  {
+    "name": "JackpotPerType[0]",
+    "alias": "Success",
+    "taggroup": "JackpotPerType",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 945
+  },
+  {
+    "name": "JackpotPerType[1]",
+    "alias": "DivertMissed",
+    "taggroup": "JackpotPerType",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 5
+  },
+  {
+    "name": "JackpotPerType[2]",
+    "alias": "ReceiverTooLong",
+    "taggroup": "JackpotPerType",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 0
+  },
+  {
+    "name": "JackpotPerType[3]",
+    "alias": "GapSmall",
+    "taggroup": "JackpotPerType",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 75
+  },
+  {
+    "name": "JackpotPerType[4]",
+    "alias": "LaneClosed",
+    "taggroup": "JackpotPerType",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 44
+  },
+  {
+    "name": "JackpotPerType[5]",
+    "alias": "LaneFull",
+    "taggroup": "JackpotPerType",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 52
+  },
+  {
+    "name": "JackpotPerType[6]",
+    "alias": "LaneJammed",
+    "taggroup": "JackpotPerType",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 0
+  },
+  {
+    "name": "JackpotPerType[7]",
+    "alias": "JackpotPerType7",
+    "taggroup": "JackpotPerType",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "value": 0
+  }
+]

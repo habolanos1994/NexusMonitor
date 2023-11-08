@@ -1,0 +1,190 @@
+[
+    {
+        "ServiceName": "Bastian Monitor",
+        "WorkerScript": "plc-worker.js",
+        "Protocol": "EthernetIP",
+        "Settings": {
+            "ControllerName": "Bastian",
+            "IPAddress": "10.63.192.32",
+            "TagConfigPath": "Bastian_tagconfig.json",
+            "Plant": "Test",
+            "Area": "Returns",
+            "Line": "Bastian",
+            "EmissionFrequency": 2000,
+            "ControllerType": "ControlLogix"
+        }
+    },
+    {
+        "ServiceName": "AEC2 Monitor",
+        "WorkerScript": "plc-worker.js",
+        "Protocol": "EthernetIP",
+        "Settings": {
+            "ControllerName": "AEC2",
+            "IPAddress": "10.63.192.33",
+            "TagConfigPath": "AEC2_tagconfig.json",
+            "Plant": "Test",
+            "Area": "Returns",
+            "Line": "Bastian",
+            "EmissionFrequency": 2000,
+            "ControllerType": "ControlLogix"
+        }
+    },
+    {
+        "ServiceName": "AEC1 Monitor",
+        "WorkerScript": "plc-worker.js",
+        "Protocol": "EthernetIP",
+        "Settings": {
+            "ControllerName": "AEC1",
+            "IPAddress": "10.63.192.35",
+            "TagConfigPath": "AEC1_tagconfig.json",
+            "Plant": "Test",
+            "Area": "Returns",
+            "Line": "Receiving",
+            "EmissionFrequency": 2000,
+            "ControllerType": "ControlLogix"
+        }
+    },
+    {
+        "ServiceName": "WIRELESS ACCESS POINT COSMETIC",
+        "WorkerScript": "LabviewET-worker.js",
+        "Protocol": "MQTT",
+        "Settings": {
+            "AreaID": "31",
+            "SubscriptionTopic": [
+                "ELP/WIRELESS ACCESS POINT_COSMETIC/+/DDATA"
+            ],
+            "MQTTDDATATopic": "Test/EfficiencyTracker/WAPCosmetic/DDATA",
+            "Serialized": true
+        }
+    },
+    {
+        "ServiceName": "WIRELESS ACCESS POINT PACKETING",
+        "WorkerScript": "LabviewET-worker.js",
+        "Protocol": "MQTT",
+        "Settings": {
+            "AreaID": "30",
+            "SubscriptionTopic": [
+                "ELP/WIRELESS ACCESS POINT_PACKETING/+/DDATA"
+            ],
+            "MQTTDDATATopic": "Test/EfficiencyTracker/WAPPacketing/DDATA",
+            "Serialized": true
+        }
+    },
+    {
+        "ServiceName": "WIRELESS ACCESS POINT FUNCTIONAL",
+        "WorkerScript": "LabviewET-worker.js",
+        "Protocol": "MQTT",
+        "Settings": {
+            "AreaID": "32",
+            "SubscriptionTopic": [
+                "ELP/WIRELESS ACCESS POINT_FUNCTIONAL/+/DDATA"
+            ],
+            "MQTTDDATATopic": "Test/EfficiencyTracker/WAPFunctional/DDATA",
+            "Serialized": true
+        }
+    },
+    {
+        "ServiceName": "HOPPER PLUS RESERIAL",
+        "WorkerScript": "LabviewET-worker.js",
+        "Protocol": "MQTT",
+        "Settings": {
+            "AreaID": "22",
+            "SubscriptionTopic": [
+                "ELP/HOPPER PLUS RESERIAL/+/DDATA"
+            ],
+            "MQTTDDATATopic": "Test/EfficiencyTracker/HopperPlusReseial/DDATA",
+            "Serialized": true
+        }
+    },
+    {
+        "ServiceName": "HOPPER PLUS COSMETIC",
+        "WorkerScript": "LabviewET-worker.js",
+        "Protocol": "MQTT",
+        "Settings": {
+            "AreaID": "23",
+            "SubscriptionTopic": [
+                "ELP/HOPPER PLUS COSMETIC/+/DDATA"
+            ],
+            "MQTTDDATATopic": "Test/EfficiencyTracker/HopperPlusCosmetic/DDATA",
+            "Serialized": true
+        }
+    },
+    {
+        "ServiceName": "POLK AUDIO RECEIVING",
+        "WorkerScript": "LabviewET-worker.js",
+        "Protocol": "MQTT",
+        "Settings": {
+            "AreaID": "26",
+            "SubscriptionTopic": [
+                "ELP/POLK AUDIO_RECEIVING/+/DDATA"
+            ],
+            "MQTTDDATATopic": "Test/EfficiencyTracker/PolkAudioReceivIng/DDATA",
+            "Serialized": true
+        }
+    },
+    {
+        "ServiceName": "RBT",
+        "WorkerScript": "LabviewET-worker.js",
+        "Protocol": "MQTT",
+        "Settings": {
+            "AreaID": "33",
+            "SubscriptionTopic": [
+                "ELP/RBT/+/DDATA"
+            ],
+            "MQTTDDATATopic": "Test/EfficiencyTracker/RBT/DDATA",
+            "Serialized": true
+        }
+    },
+    {
+        "ServiceName": "HOPPER PLUS USB C",
+        "WorkerScript": "LabviewET-worker.js",
+        "Protocol": "MQTT",
+        "Settings": {
+            "AreaID": "42",
+            "SubscriptionTopic": [
+                "ELP/HOPPER PLUS USB C/+/DDATA"
+            ],
+            "MQTTDDATATopic": "Test/EfficiencyTracker/HopperPlusUsbC/DDATA",
+            "Serialized": true
+        }
+    },
+    {
+        "ServiceName": "JOEY POWER SUPPLY",
+        "WorkerScript": "LabviewET-worker.js",
+        "Protocol": "MQTT",
+        "Settings": {
+            "AreaID": "20",
+            "SubscriptionTopic": [
+                "ELP/JOEY POWER SUPPLY/+/DDATA"
+            ],
+            "MQTTDDATATopic": "Test/EfficiencyTracker/JPS/DDATA",
+            "Serialized": true
+        }
+    },
+    {
+        "ServiceName": "QRA",
+        "WorkerScript": "LabviewET-worker.js",
+        "Protocol": "MQTT",
+        "Settings": {
+            "AreaID": "0",
+            "SubscriptionTopic": [
+                "ELP/QRA/+/DDATA"
+            ],
+            "MQTTDDATATopic": "Test/EfficiencyTracker/QRA/DDATA",
+            "Serialized": true
+        }
+    },
+    {
+        "ServiceName": "ReturnsCounter",
+        "WorkerScript": "Counter.js",
+        "Protocol": "MQTT",
+        "Settings": {
+            "AreaID": "0",
+            "SubscriptionTopic": [
+                "ELP/Returns/PROXY/SickClarify/DDATA", "ELP/Returns/PROXY/Keyence/DDATA", "ELP/Returns/PROXY/Receiver_Sorter/DDATA", "ELP/QRA/+/DDATA"
+            ],
+            "MQTTDDATATopic": "Test/Returns/Counters/DDATA",
+            "Serialized": true
+        }
+    }
+]

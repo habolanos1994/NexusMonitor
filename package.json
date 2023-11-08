@@ -1,0 +1,40 @@
+{
+  "name": "returns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "body-parser": "^1.20.2",
+    "create-react-app": "^1.2.1",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "ethernet-ip": "^1.2.5",
+    "express": "^4.18.2",
+    "express-ntlm": "^2.6.2",
+    "express-session": "^1.17.3",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "mongodb": "^5.4.0",
+    "mqtt": "^4.3.6",
+    "mssql": "^9.1.1",
+    "node-schedule": "^2.1.1",
+    "node-windows": "^1.0.0-beta.8",
+    "nodemailer": "^6.9.3",
+    "npmlog": "^6.0.1",
+    "papaparse": "^5.4.1",
+    "passport": "^0.6.0",
+    "passport-custom": "^1.1.1",
+    "passport-windowsauth": "^3.0.1",
+    "st-ethernet-ip": "^2.6.7",
+    "uuid": "^9.0.0",
+    "winston": "^3.8.2",
+    "write-file-atomic": "^5.0.1"
+  }
+}

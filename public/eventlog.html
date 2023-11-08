@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Event Log Viewer</title>
+  <link rel="stylesheet" type="text/css" href="/lib/HTML/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="/lib/HTML/css/jquery.dataTables.css">
+  <script src="/lib/HTML/js/jquery-3.5.1.min.js"></script>
+  <script src="/lib/HTML/js/bootstrap.bundle.min.js"></script>
+  <script src="/lib/HTML/js/jquery.dataTables.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>Event Log Viewer</h1>
+    <table id="log-result" class="table table-striped table-bordered">
+      <thead>
+        <tr>
+          <th>Timestamp</th>
+          <th>Source File</th>
+          <th>Service Name</th>
+          <th>Source Function</th>
+          <th>Message</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Data will be inserted here by DataTables -->
+      </tbody>
+    </table>
+  </div>
+
+  <script src="./eventlog.js"></script>
+</body>
+</html>

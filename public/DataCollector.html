@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Control Page</title>
+        <link rel="stylesheet" href="/styles/styless.css"> <!-- Ensure the correct path to the CSS file -->
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+        <script>
+            $(document).ready(function () {
+                // Function for the getTagConfigs button
+                $("#getTagConfigs").click(function () {
+                    $.get("/api/mongo/getTagConfigs", function (data, status) {
+                        alert("Data: " + data + "\nStatus: " + status);
+                    });
+                });
+
+                // Function for the DataCollectorRestart button
+                $("#DataCollectorRestart").click(function () {
+                    $.get("/api/DataCollector/Restart", function (data, status) {
+                        alert("Data: " + data + "\nStatus: " + status);
+                    });
+                });
+
+                // Function to display the DataCollectorStatus
+                function getDataCollectorStatus() {
+                    $.get("/api/DataCollector/Status", function (data) {
+                        $("#DataCollectorStatus").text(data);
+                    });
+                }
+
+                getDataCollectorStatus(); // Initially call the function
+
+                setInterval(getDataCollectorStatus, 10000); // Call the function every 10 seconds to update the status
+            });
+        </script>
+    </head>
+    <body>
+        <div class="container">
+            <h1 class="plcName">Control Panel</h1>
+            <div class="tagGroup">
+                <button id="getTagConfigs">Get Tag Configs</button>
+            </div>
+            <div class="tagGroup">
+                <button id="DataCollectorRestart">Restart Data Collector</button>
+            </div>
+            <div class="tagGroup">
+                <pre id="DataCollectorStatus"></pre>
+            </div>
+        </div>
+    </body>
+</html>

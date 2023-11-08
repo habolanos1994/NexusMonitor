@@ -1,0 +1,19 @@
+{
+    "Users": [
+        {
+            "email": "armandoss.menchaca@dish.com",
+            "name": "Armando Menchaca",
+            "ntLogin": "armando.menchaca"
+        },
+        {
+            "email": "Humberto.bolanos@dish.com",
+            "name": "Humberto Bolanos",
+            "ntLogin": "humberto.bolanos"
+        },
+        {
+            "email": "sean.pichardo@dish.com",
+            "name": "SEAN.PICHARDO",
+            "ntLogin": "SEAN.PICHARDO"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>API Introduction</title>
+  <link rel="stylesheet" href="css/styles.css"> <!-- Add your stylesheet here -->
+</head>
+<body>
+  <header>
+    <h1>Welcome to our API Introduction Page</h1>
+  </header>
+  <main>
+    <section id="api-intro">
+      <h2>APIs Available</h2>
+      <ul>
+        <li>/api/getjson</li>
+        <li>/api/mongo/getTagConfigs</li>
+        <li>/api/DataCollector/Status</li>
+        <li>/api/DataCollector/Restart</li>
+        <!-- ...more APIs if you want  DataCollectorwebsite.service -->
+      </ul>
+    </section>
+    <section id="project-description">
+      <h2>About the Project</h2>
+      <p>This project consists of an API server and an MQTT client which both interact with PLCs (Programmable Logic Controllers) to collect data. The data is then published via MQTT and stored in a MongoDB database for further processing or analysis. The project is implemented with Node.js and uses the MQTT and worker_threads modules extensively.</p>
+      <p>the name of these service is DataCollectorwebsite.service and DataCollector.service</p>
+      <h3>Key Features</h3>
+      <ul>
+        <li>Launches a worker thread for each PLC configuration read from a JSON file.</li>
+        <li>Each worker thread is set up with the PLC's name, IP address, and tag configurations, along with some other details such as emission frequency and plant location.</li>
+        <li>If any worker encounters an error or exits, it is logged into an error log.</li>
+        <li>Data from PLC is read and published via MQTT, and saved to a MongoDB database every half-hour.</li>
+        <li>If the PLC encounters an error or loses its connection, it tries to reconnect after a delay and logs the incident.</li>
+        <li>Unique serial numbers from each MQTT topic are counted and written to a CSV file.</li>
+        <li>Every day at 3:00 AM and 3:00 PM, it clears all the collected data and starts counting from zero again.</li>
+      </ul>
+    </section>
+    <section id="navigation">
+      <h2>Navigate to other services</h2>
+      <div>
+        <button id="errorLog-button" onClick="window.location.href='/errorLog';">Go to Error Log</button>
+        <button id="dataCollector-button" onClick="window.location.href='/DataCollector';">Go to Data Collector</button>
+        <button id="dataCollector-button" onClick="window.location.href='/PLCdata';">MQTT Monitor</button>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <!-- Put your footer content here -->
+  </footer>
+  <!-- You can put some scripts here -->
+</body>
+</html>

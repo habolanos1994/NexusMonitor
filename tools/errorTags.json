@@ -1,0 +1,10 @@
+[
+  {
+    "name": "JackpotPerType[3]",
+    "alias": "GapTooSmall",
+    "taggroup": "JackpotPerType",
+    "PublishGroup": "Mark012",
+    "tagConvertion": "",
+    "error": "Alias 'GapTooSmall' is not unique within the publish group 'Mark012'."
+  }
+]

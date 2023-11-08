@@ -1,0 +1,534 @@
+[
+    {
+        "name": "OEE_MARK004.OEE",
+        "alias": "OEE",
+        "Index2": "",
+        "StationName": "Mark004",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK004.Cell_ID",
+        "alias": "Cell_ID",
+        "Index2": "",
+        "StationName": "Mark004",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK004.PartNumber",
+        "alias": "PartNumber",
+        "Index2": "",
+        "StationName": "Mark004",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK004.SelectedTaktTime",
+        "alias": "SelectedTaktTime",
+        "Index2": "",
+        "StationName": "Mark004",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK004.Last_60min_Speed",
+        "alias": "Last_60min_Speed",
+        "Index2": "",
+        "StationName": "Mark004",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK004.Last_5min_Speed",
+        "alias": "Last_5min_Speed",
+        "Index2": "",
+        "StationName": "Mark004",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK004.AverageTaktTime",
+        "alias": "AverageTaktTime",
+        "Index2": "",
+        "StationName": "Mark004",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK004.TargetProduction",
+        "alias": "TargetProduction",
+        "Index2": "",
+        "StationName": "Mark004",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK004.OperatorID",
+        "alias": "OperatorID",
+        "Index2": "",
+        "StationName": "Mark004",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK004.CellState",
+        "alias": "CellState",
+        "Index2": "",
+        "StationName": "Mark004",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK004.AccPlannedRuntime",
+        "alias": "AccPlannedRuntime",
+        "Index2": "",
+        "StationName": "Mark004",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK004.TotalDowntime",
+        "alias": "TotalDowntime",
+        "Index2": "",
+        "StationName": "Mark004",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK004.TotalParts",
+        "alias": "TotalParts",
+        "Index2": "",
+        "StationName": "Mark004",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK004.GoodParts",
+        "alias": "GoodParts",
+        "Index2": "",
+        "StationName": "Mark004",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK004.Rejects",
+        "alias": "Rejects",
+        "Index2": "",
+        "StationName": "Mark004",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK004.Quality",
+        "alias": "Quality",
+        "Index2": "",
+        "StationName": "Mark004",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK004.Availability",
+        "alias": "Availability",
+        "Index2": "",
+        "StationName": "Mark004",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK004.Performance",
+        "alias": "Performance",
+        "Index2": "",
+        "StationName": "Mark004",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK004.Timer[0]",
+        "alias": "Idle",
+        "Index2": "",
+        "StationName": "Mark004",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK004.Timer[1]",
+        "alias": "Starved",
+        "Index2": "Downtime",
+        "StationName": "Mark004",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK004.Timer[2]",
+        "alias": "E-Stopped",
+        "Index2": "Downtime",
+        "StationName": "Mark004",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK004.Timer[3]",
+        "alias": "BlockedByJackpot",
+        "Index2": "Downtime",
+        "StationName": "Mark004",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK004.Timer[4]",
+        "alias": "Faulted",
+        "Index2": "Downtime",
+        "StationName": "Mark004",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK004.Timer[5]",
+        "alias": "ChangeOver",
+        "Index2": "Downtime",
+        "StationName": "Mark004",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK004.Timer[6]",
+        "alias": "BlockedByMark005",
+        "Index2": "Downtime",
+        "StationName": "Mark004",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK004.Timer[7]",
+        "alias": "BlockedByMark008",
+        "Index2": "Downtime",
+        "StationName": "Mark004",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.OEE",
+        "alias": "OEE",
+        "Index2": "",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.Cell_ID",
+        "alias": "Cell_ID",
+        "Index2": "",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.PartNumber",
+        "alias": "PartNumber",
+        "Index2": "",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.SelectedTaktTime",
+        "alias": "SelectedTaktTime",
+        "Index2": "",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.Last_60min_Speed",
+        "alias": "Last_60min_Speed",
+        "Index2": "",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.Last_5min_Speed",
+        "alias": "Last_5min_Speed",
+        "Index2": "",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.AverageTaktTime",
+        "alias": "AverageTaktTime",
+        "Index2": "",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.TargetProduction",
+        "alias": "TargetProduction",
+        "Index2": "",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.OperatorID",
+        "alias": "OperatorID",
+        "Index2": "",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.CellState",
+        "alias": "CellState",
+        "Index2": "",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.AccPlannedRuntime",
+        "alias": "AccPlannedRuntime",
+        "Index2": "",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.TotalDowntime",
+        "alias": "TotalDowntime",
+        "Index2": "",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.TotalParts",
+        "alias": "TotalParts",
+        "Index2": "",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.GoodParts",
+        "alias": "GoodParts",
+        "Index2": "",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.Rejects",
+        "alias": "Rejects",
+        "Index2": "",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.Quality",
+        "alias": "Quality",
+        "Index2": "",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.Availability",
+        "alias": "Availability",
+        "Index2": "",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.Performance",
+        "alias": "Performance",
+        "Index2": "",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.Timer[0]",
+        "alias": "Runtime",
+        "Index2": "",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.Timer[1]",
+        "alias": "Iddle",
+        "Index2": "Downtime",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.Timer[2]",
+        "alias": "Blocked",
+        "Index2": "Downtime",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.Timer[3]",
+        "alias": "Starved",
+        "Index2": "Downtime",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.Timer[4]",
+        "alias": "Faulted",
+        "Index2": "Downtime",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.Timer[5]",
+        "alias": "EStopped",
+        "Index2": "Downtime",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.RejectsByType[0]",
+        "alias": "MultiRead",
+        "Index2": "RejectsByType",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.RejectsByType[1]",
+        "alias": "NoDataForPart",
+        "Index2": "RejectsByType",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.RejectsByType[2]",
+        "alias": "NoRead",
+        "Index2": "RejectsByType",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.RejectsByType[3]",
+        "alias": "MissDivert",
+        "Index2": "RejectsByType",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "OEE_MARK012.RejectsByType[5]",
+        "alias": "LaneBusy",
+        "Index2": "RejectsByType",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "SpurCounts[0]",
+        "alias": "Spur0",
+        "Index2": "SpurCounts",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "SpurCounts[1]",
+        "alias": "Spur1",
+        "Index2": "SpurCounts",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "SpurCounts[2]",
+        "alias": "Spur2",
+        "Index2": "SpurCounts",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "SpurCounts[3]",
+        "alias": "Spur3",
+        "Index2": "SpurCounts",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "SpurCounts[4]",
+        "alias": "Spur4",
+        "Index2": "SpurCounts",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "SpurCounts[5]",
+        "alias": "Spur5",
+        "Index2": "SpurCounts",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "SpurCounts[6]",
+        "alias": "Spur6",
+        "Index2": "SpurCounts",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "SpurCounts[7]",
+        "alias": "Spur7",
+        "Index2": "SpurCounts",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "SpurCounts[8]",
+        "alias": "Spur8",
+        "Index2": "SpurCounts",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "SpurCounts[9]",
+        "alias": "Spur9",
+        "Index2": "SpurCounts",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "SpurCounts[10]",
+        "alias": "Spur10",
+        "Index2": "SpurCounts",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "SpurCounts[11]",
+        "alias": "Spur11",
+        "Index2": "SpurCounts",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "SpurCounts[12]",
+        "alias": "Spur12",
+        "Index2": "SpurCounts",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "JackpotPerType[0]",
+        "alias": "Success",
+        "Index2": "JackpotPerType",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "JackpotPerType[1]",
+        "alias": "DivertMissed",
+        "Index2": "JackpotPerType",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "JackpotPerType[2]",
+        "alias": "ReceiverTooLong",
+        "Index2": "JackpotPerType",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "JackpotPerType[3]",
+        "alias": "GapTooSmall",
+        "Index2": "JackpotPerType",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "JackpotPerType[4]",
+        "alias": "LaneClosed",
+        "Index2": "JackpotPerType",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "JackpotPerType[5]",
+        "alias": "LaneFull",
+        "Index2": "JackpotPerType",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "JackpotPerType[6]",
+        "alias": "LaneJammed",
+        "Index2": "JackpotPerType",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    },
+    {
+        "name": "JackpotPerType[7]",
+        "alias": "JackpotPerType7",
+        "Index2": "JackpotPerType",
+        "StationName": "Mark012",
+        "Index1": "OEE_Data"
+    }
+]

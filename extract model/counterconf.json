@@ -1,0 +1,1156 @@
+{
+  "models": [
+    {
+      "model": "(Other - Requires Comments)",
+      "code": null
+    },
+    {
+      "model": "Able UHF",
+      "code": "AB"
+    },
+    {
+      "model": "2150",
+      "code": null
+    },
+    {
+      "model": "2200",
+      "code": null
+    },
+    {
+      "model": "3200",
+      "code": null
+    },
+    {
+      "model": "3000/3500",
+      "code": "BI"
+    },
+    {
+      "model": "3500",
+      "code": "BI"
+    },
+    {
+      "model": "4000/4500",
+      "code": "BU"
+    },
+    {
+      "model": "4500",
+      "code": "BU"
+    },
+    {
+      "model": "5000/5500",
+      "code": "BT"
+    },
+    {
+      "model": "5500",
+      "code": "BT"
+    },
+    {
+      "model": "1000",
+      "code": "BN"
+    },
+    {
+      "model": "2700",
+      "code": "CA"
+    },
+    {
+      "model": "2800",
+      "code": "CV"
+    },
+    {
+      "model": "3700",
+      "code": "CM"
+    },
+    {
+      "model": "3800",
+      "code": "CN"
+    },
+    {
+      "model": "5400 (DVD)",
+      "code": "CD"
+    },
+    {
+      "model": "3900",
+      "code": "CP"
+    },
+    {
+      "model": "4700",
+      "code": "CU"
+    },
+    {
+      "model": "4900",
+      "code": "CT"
+    },
+    {
+      "model": "Dish 111",
+      "code": "JA"
+    },
+    {
+      "model": "Dish 311",
+      "code": "DM"
+    },
+    {
+      "model": "Able IR",
+      "code": "AI"
+    },
+    {
+      "model": "DishPlayer DVR 522",
+      "code": "GA"
+    },
+    {
+      "model": "Dish 811",
+      "code": "LA"
+    },
+    {
+      "model": "DishPlayer DVR 921",
+      "code": "HE"
+    },
+    {
+      "model": "Dish 301 - D",
+      "code": "DA"
+    },
+    {
+      "model": "Dish 322D",
+      "code": "DN"
+    },
+    {
+      "model": "DishPlayer DVR 510 - D",
+      "code": "DR"
+    },
+    {
+      "model": "DishDVR 501 - D",
+      "code": "DC"
+    },
+    {
+      "model": "DishDVR 721",
+      "code": "HA"
+    },
+    {
+      "model": "DishPro 301 - E",
+      "code": "EA"
+    },
+    {
+      "model": "6000",
+      "code": "CH"
+    },
+    {
+      "model": "6000U",
+      "code": "CK"
+    },
+    {
+      "model": "DishDVR 508 - D",
+      "code": "DD"
+    },
+    {
+      "model": "IRR",
+      "code": "BJ"
+    },
+    {
+      "model": "3750",
+      "code": "CR"
+    },
+    {
+      "model": "7100",
+      "code": "BW"
+    },
+    {
+      "model": "7200",
+      "code": "BP"
+    },
+    {
+      "model": "2700",
+      "code": "CL"
+    },
+    {
+      "model": "6100",
+      "code": "CJ"
+    },
+    {
+      "model": "6100U",
+      "code": "CW"
+    },
+    {
+      "model": "SkyVista/Racing Network",
+      "code": null
+    },
+    {
+      "model": "QAM 3750",
+      "code": "CR"
+    },
+    {
+      "model": "Dish 322G",
+      "code": "GC"
+    },
+    {
+      "model": "Dish 351",
+      "code": "LB"
+    },
+    {
+      "model": "DishPlayer DVR 942",
+      "code": "MA"
+    },
+    {
+      "model": "DishPlayer DVR 522 w/160GB",
+      "code": "GG"
+    },
+    {
+      "model": "DishPlayer DVR 625",
+      "code": "GJ"
+    },
+    {
+      "model": "351",
+      "code": "LB"
+    },
+    {
+      "model": "642",
+      "code": "NA"
+    },
+    {
+      "model": "Dish 322G RC",
+      "code": "GD"
+    },
+    {
+      "model": "Portable Video Player (2.2\")",
+      "code": "QA"
+    },
+    {
+      "model": "Portable Video Player (4.0\")",
+      "code": "QB"
+    },
+    {
+      "model": "Portable Video Player (7.0\")",
+      "code": "QC"
+    },
+    {
+      "model": "Dish 411",
+      "code": "RA"
+    },
+    {
+      "model": "ViP211",
+      "code": "RC"
+    },
+    {
+      "model": "ViP622 DVR",
+      "code": "RB"
+    },
+    {
+      "model": "3100",
+      "code": "EA"
+    },
+    {
+      "model": "DishPlayer DVR 781",
+      "code": "HG"
+    },
+    {
+      "model": "Dish 381",
+      "code": "LC"
+    },
+    {
+      "model": "ViP222",
+      "code": "VA"
+    },
+    {
+      "model": "AT&amp;T HomeZone (2042 - HD)",
+      "code": "PA"
+    },
+    {
+      "model": "AT&amp;T HomeZone (1022 - SD)",
+      "code": "PB"
+    },
+    {
+      "model": "WildBlue SM2000",
+      "code": "QD"
+    },
+    {
+      "model": "WildBlue SM2100",
+      "code": "QE"
+    },
+    {
+      "model": "Dish 211",
+      "code": "DP"
+    },
+    {
+      "model": "Express Vu 4100",
+      "code": "JG"
+    },
+    {
+      "model": "DishPlayer DVR 642",
+      "code": "NA"
+    },
+    {
+      "model": "ViP211k",
+      "code": "RG"
+    },
+    {
+      "model": "AT&amp;T 622HZ DVR",
+      "code": "RH"
+    },
+    {
+      "model": "ViP722",
+      "code": "RJ"
+    },
+    {
+      "model": "Q-Box",
+      "code": "SA"
+    },
+    {
+      "model": "ViP612",
+      "code": "WA"
+    },
+    {
+      "model": "ViP213W",
+      "code": "WB"
+    },
+    {
+      "model": "Dish 322G RC w/DN241 Chip",
+      "code": "GK"
+    },
+    {
+      "model": "DishPlayer DVR 625 w/DN241 Chip",
+      "code": "GL"
+    },
+    {
+      "model": "ViP722 w/DN241 Chip",
+      "code": "RK"
+    },
+    {
+      "model": "ViP222 w/DN241 Chip",
+      "code": "VB"
+    },
+    {
+      "model": "ViP722k DVR",
+      "code": "RM"
+    },
+    {
+      "model": "AT&amp;T 622HZ DVR w/DN241 Chip",
+      "code": "RL"
+    },
+    {
+      "model": "ViP222k",
+      "code": "RN"
+    },
+    {
+      "model": "TR-50",
+      "code": "TA"
+    },
+    {
+      "model": "TR-50 DVR",
+      "code": "TB"
+    },
+    {
+      "model": "DTVPal/TR-40CRA",
+      "code": "TC"
+    },
+    {
+      "model": "Dish 311 w/DN241 Card",
+      "code": "DQ"
+    },
+    {
+      "model": "DishPlayer DVR 522 w/DN241 Card",
+      "code": "GE"
+    },
+    {
+      "model": "Dish 322G w/DN241 Card",
+      "code": "GN"
+    },
+    {
+      "model": "Dish 322G RC w/DN241 Card",
+      "code": "GP"
+    },
+    {
+      "model": "DishPlayer DVR 522 w/160GB w/DN241 Card",
+      "code": "GH"
+    },
+    {
+      "model": "DishPlayer DVR 625 w/DN241 Card",
+      "code": "GM"
+    },
+    {
+      "model": "Dish 811 w/DN241 Card",
+      "code": "LD"
+    },
+    {
+      "model": "Dish 351 w/DN241 Card",
+      "code": "LF"
+    },
+    {
+      "model": "Dish 381 w/DN241 Card",
+      "code": "LE"
+    },
+    {
+      "model": "AT&amp;T HomeZone (1022 - SD) w/DN241 Card",
+      "code": "PC"
+    },
+    {
+      "model": "Dish 411 w/DN241 Card",
+      "code": "RD"
+    },
+    {
+      "model": "ViP622 DVR w/DN241 Card",
+      "code": "RE"
+    },
+    {
+      "model": "ViP211 w/DN241 Card",
+      "code": "RF"
+    },
+    {
+      "model": "ViP211 w/DN241 Chip",
+      "code": "RS"
+    },
+    {
+      "model": "AT&amp;T 622HZ DVR w/DN241 Card",
+      "code": "RQ"
+    },
+    {
+      "model": "ViP722 w/DN241 Card",
+      "code": "RP"
+    },
+    {
+      "model": "ViP722k OTA Module",
+      "code": "RR"
+    },
+    {
+      "model": "ViP222 w/DN241 Card",
+      "code": "VC"
+    },
+    {
+      "model": "Dish 111 w/DN241 Card",
+      "code": "JB"
+    },
+    {
+      "model": "4900 w/DN241 Card",
+      "code": "CB"
+    },
+    {
+      "model": "Dish 301 - D w/DN241 Card",
+      "code": "DB"
+    },
+    {
+      "model": "DishDVR 501 - D w/DN241 Card",
+      "code": "DE"
+    },
+    {
+      "model": "DishDVR 508 - D w/DN241 Card",
+      "code": "DF"
+    },
+    {
+      "model": "AT&amp;T HomeZone (2042 - HD) w/DN241 Card",
+      "code": "PD"
+    },
+    {
+      "model": "DishPlayer DVR 510 - D w/DN241 Card",
+      "code": "DG"
+    },
+    {
+      "model": "DishPro 301 - E w/DN241 Card",
+      "code": "EB"
+    },
+    {
+      "model": "MT2, OTA Module, 2 Tuner, w/ 3/4",
+      "code": "UB"
+    },
+    {
+      "model": "T2, OTA Module 2 Tuner, w/o 3/4",
+      "code": "UC"
+    },
+    {
+      "model": "MT1, OTA Module 1 Tuner, w/ 3/4",
+      "code": "UD"
+    },
+    {
+      "model": "T1,  OTA Module 1 Tuner, w/o 3/4",
+      "code": "UE"
+    },
+    {
+      "model": "M34, OTA Module 0 Tuner, w/ 3/4",
+      "code": "UF"
+    },
+    {
+      "model": "MQ2 OTA Module",
+      "code": "UG"
+    },
+    {
+      "model": "Dish 311 w/DN241 Chip",
+      "code": "DU"
+    },
+    {
+      "model": "DTVPal Plus",
+      "code": "TD"
+    },
+    {
+      "model": "ViP922",
+      "code": "XA"
+    },
+    {
+      "model": "EV6131",
+      "code": "RT"
+    },
+    {
+      "model": "WildBlue SM2101",
+      "code": "QF"
+    },
+    {
+      "model": "Dish 322G-1 w/DN241 Card",
+      "code": "GQ"
+    },
+    {
+      "model": "Dish 322GRC-1 w/DN241 Card",
+      "code": "GR"
+    },
+    {
+      "model": "Dish 322GRC-1 w/DN241 Chip",
+      "code": "GS"
+    },
+    {
+      "model": "ViP222k (LF Main Board)",
+      "code": "R4"
+    },
+    {
+      "model": "ViP722k (LF Main Board)",
+      "code": "R5"
+    },
+    {
+      "model": "ViP922 (LF Main Board)",
+      "code": "X2"
+    },
+    {
+      "model": "ViP222k w/DN241 Card",
+      "code": "R6"
+    },
+    {
+      "model": "ViP222k w/DN241 Card (LF Main Board)",
+      "code": "R7"
+    },
+    {
+      "model": "Dish Mexico M31S",
+      "code": "QG"
+    },
+    {
+      "model": "Sling Aero",
+      "code": "QM"
+    },
+    {
+      "model": "Sling Aster",
+      "code": "QN"
+    },
+    {
+      "model": "DishPlayer DVR 512 w/DN241 Card",
+      "code": "GT"
+    },
+    {
+      "model": "DishPlayer DVR 512 w/DN241 Card",
+      "code": "GU"
+    },
+    {
+      "model": "DishPlayer DVR 512 w/DN241 Chip",
+      "code": "GV"
+    },
+    {
+      "model": "1000",
+      "code": "BS"
+    },
+    {
+      "model": "ViP211k (LF Main Board)",
+      "code": "RV"
+    },
+    {
+      "model": "ViP612 (LF Main Board)",
+      "code": "WE"
+    },
+    {
+      "model": "Dish Audio Mate",
+      "code": "UA"
+    },
+    {
+      "model": "T2200S",
+      "code": "RU"
+    },
+    {
+      "model": "Teluis 9241T",
+      "code": "WD"
+    },
+    {
+      "model": "Dish Mexico M31B",
+      "code": "QH"
+    },
+    {
+      "model": "ViP211k w/DN241 Card",
+      "code": "RY"
+    },
+    {
+      "model": "Dish Mexico M31T",
+      "code": "QI"
+    },
+    {
+      "model": "Dish Mexico Alta",
+      "code": "QJ"
+    },
+    {
+      "model": "ViP211K (LF Main Board) w/ DN241 Card",
+      "code": "RZ"
+    },
+    {
+      "model": "Sling Adapter",
+      "code": "QP"
+    },
+    {
+      "model": "Google TV",
+      "code": "UK"
+    },
+    {
+      "model": "ViP222k (LF, 552 Chip)",
+      "code": "R1"
+    },
+    {
+      "model": "Dish 311k (322GRC conversion) w/DN241 Chip",
+      "code": "GX"
+    },
+    {
+      "model": "Dish 311k (322G conversion) w/DN241 Card",
+      "code": "GW"
+    },
+    {
+      "model": "Dish 311k (322G conversion) w/DN241 Chip",
+      "code": "GY"
+    },
+    {
+      "model": "ViP722k DVR (LF Main Board) w/ DN241 Card",
+      "code": "KC"
+    },
+    {
+      "model": "ViP222k (LF Main Board) w/ DN552 Card.",
+      "code": "KD"
+    },
+    {
+      "model": "Hopper2000",
+      "code": "XB"
+    },
+    {
+      "model": "Joey1.0",
+      "code": "XC"
+    },
+    {
+      "model": "DVR 512 (522 variant) 250GB HDD",
+      "code": "AD"
+    },
+    {
+      "model": "ViP222k",
+      "code": "AG"
+    },
+    {
+      "model": "ViP222k (LF Main Board)",
+      "code": "AH"
+    },
+    {
+      "model": "ViP211k",
+      "code": "AE"
+    },
+    {
+      "model": "ViP211k (LF Main Board)",
+      "code": "AF"
+    },
+    {
+      "model": "ViP612",
+      "code": "AJ"
+    },
+    {
+      "model": "ViP612 (LF Main Board)",
+      "code": "AK"
+    },
+    {
+      "model": "ViP722k",
+      "code": "AL"
+    },
+    {
+      "model": "ViP722k (LF Main Board)",
+      "code": "AM"
+    },
+    {
+      "model": "ViP922",
+      "code": "AN"
+    },
+    {
+      "model": "ViP722K w/ DN552 Chip (LF Main Board)",
+      "code": "KE"
+    },
+    {
+      "model": "ViaSat RM4100",
+      "code": "UM"
+    },
+    {
+      "model": "Hopper with Sling",
+      "code": "XD"
+    },
+    {
+      "model": "Dongle",
+      "code": "UR"
+    },
+    {
+      "model": "ViP211z",
+      "code": "XE"
+    },
+    {
+      "model": "ViP612C",
+      "code": "SB"
+    },
+    {
+      "model": "MoCA Bridge",
+      "code": "UH"
+    },
+    {
+      "model": "IPTV STB-2300",
+      "code": "QR"
+    },
+    {
+      "model": "IPTV HD 2500",
+      "code": "QS"
+    },
+    {
+      "model": "IPTV HD 2500",
+      "code": "QS"
+    },
+    {
+      "model": "Sling Adapter",
+      "code": "QT"
+    },
+    {
+      "model": "Hughes Jupiter Modem",
+      "code": "QZ"
+    },
+    {
+      "model": "Hughes Jupiter Tria",
+      "code": "QV"
+    },
+    {
+      "model": "Hughes Spaceway Modem",
+      "code": "QW"
+    },
+    {
+      "model": "Hughes Spaceway Tria",
+      "code": "QX"
+    },
+    {
+      "model": "Dishnet Wireline Modem",
+      "code": "QY"
+    },
+    {
+      "model": "Tailgater",
+      "code": "UL"
+    },
+    {
+      "model": "Exede SB2 Tria",
+      "code": "UN"
+    },
+    {
+      "model": "Exede SB1 Tria",
+      "code": "UP"
+    },
+    {
+      "model": "CDR 100 ",
+      "code": "AC"
+    },
+    {
+      "model": "ABA 1020 (PCI card)",
+      "code": "BC"
+    },
+    {
+      "model": "5400 (DVD)",
+      "code": "CD"
+    },
+    {
+      "model": "ViP211i",
+      "code": "KA"
+    },
+    {
+      "model": "ViP722i",
+      "code": "KB"
+    },
+    {
+      "model": "Hughes Jupiter Modem (HT1100)",
+      "code": "Q2"
+    },
+    {
+      "model": "XiPMoCABridge",
+      "code": "UI"
+    },
+    {
+      "model": "HOPPER with SLING CR",
+      "code": "XJ"
+    },
+    {
+      "model": "SUPER JOEY",
+      "code": "XK"
+    },
+    {
+      "model": "ViP211z CR",
+      "code": "XL"
+    },
+    {
+      "model": "SMARTBox 16 Slot Chassis",
+      "code": "PF"
+    },
+    {
+      "model": "SMARTBox Power Supply Blade",
+      "code": "PG"
+    },
+    {
+      "model": "SMARTBox 16 Ch QAM Blade",
+      "code": "PH"
+    },
+    {
+      "model": "SMARTBox 48 ch QAM Blade",
+      "code": "PJ"
+    },
+    {
+      "model": "SMARTBox 96 Ch QAM Blade",
+      "code": "PK"
+    },
+    {
+      "model": "SMARTBox Mdeia Server Blade",
+      "code": "PL"
+    },
+    {
+      "model": "SMARTBox Media Server+Blade",
+      "code": "PM"
+    },
+    {
+      "model": "SMARTBox 24 NTSC TV Blade",
+      "code": "PN"
+    },
+    {
+      "model": "SMARTBox 8 ch ATSC Rcvr Blade",
+      "code": "PP"
+    },
+    {
+      "model": "SMARTBox Transcoder 8 Module",
+      "code": "PQ"
+    },
+    {
+      "model": "SMARTBox Sat Rcvr Pro Cam",
+      "code": "PR"
+    },
+    {
+      "model": "SMARTBox 8 Ch Sat Rcvr Blade",
+      "code": "PS"
+    },
+    {
+      "model": "Joey CR",
+      "code": "XF"
+    },
+    {
+      "model": "Panasonic Avionics 311",
+      "code": "YB"
+    },
+    {
+      "model": "Panasonic Avionics 211K",
+      "code": "YC"
+    },
+    {
+      "model": "Winegard Pathway X2",
+      "code": "UW"
+    },
+    {
+      "model": "Wireless Joey",
+      "code": "XG"
+    },
+    {
+      "model": "BandRich E580-LTE Modem",
+      "code": "Q3"
+    },
+    {
+      "model": "Wireless Joey Access Point",
+      "code": "XH"
+    },
+    {
+      "model": "ETria",
+      "code": "US"
+    },
+    {
+      "model": "4kJoey",
+      "code": "XM"
+    },
+    {
+      "model": "Hopper3",
+      "code": "XP"
+    },
+    {
+      "model": "DishPlayer DVR 625 w/DN241 Card",
+      "code": "GZ"
+    },
+    {
+      "model": "CMSMBRBTX",
+      "code": "PT"
+    },
+    {
+      "model": "SMARTBOX 8 CH ATSC Blade w/ Transcoder",
+      "code": "PU"
+    },
+    {
+      "model": "SMARTBOX SATELLITE RECEIVER PRO CAM 2.0",
+      "code": "PV"
+    },
+    {
+      "model": "SMARTBOX 8 CH SAT RCVR BLADE-PRO COM 2.0",
+      "code": "PW"
+    },
+    {
+      "model": "DISHNET WIRELINE MODEL LEGACY",
+      "code": "Q4"
+    },
+    {
+      "model": "NETWORK MEDIA PLAYER",
+      "code": "TE"
+    },
+    {
+      "model": "TAILGATER 2.2",
+      "code": "UT"
+    },
+    {
+      "model": "TAILGATER 2.1",
+      "code": "UU"
+    },
+    {
+      "model": "WALLY",
+      "code": "XN"
+    },
+    {
+      "model": "SMARTBox 8 Ch Blade v1.1 for ProCam",
+      "code": "PY"
+    },
+    {
+      "model": "SMARTBox 8 Ch Blade V1.1 w/ TX",
+      "code": "PZ"
+    },
+    {
+      "model": "HopperGO",
+      "code": "WI"
+    },
+    {
+      "model": "WAP 2.0",
+      "code": "XR"
+    },
+    {
+      "model": "Hughes Jupiter Model HT2000",
+      "code": "Q5"
+    },
+    {
+      "model": "Hughes Jupiter Model HT2000W",
+      "code": "Q6"
+    },
+    {
+      "model": "Hughes Jupiter 2 Tria",
+      "code": "Q7"
+    },
+    {
+      "model": "Hughes Jupiter 2W Tria",
+      "code": "Q7"
+    },
+    {
+      "model": "AirTV Player",
+      "code": "YD"
+    },
+    {
+      "model": "SBATSC1.1",
+      "code": "P3"
+    },
+    {
+      "model": "HOPPERDUO",
+      "code": "XT"
+    },
+    {
+      "model": "JOEY3.0",
+      "code": "XS"
+    },
+    {
+      "model": "9400",
+      "code": "WG"
+    },
+    {
+      "model": "LOCOTA",
+      "code": "P8"
+    },
+    {
+      "model": "SMARTBox8 Ch ATSC Blade",
+      "code": "P9"
+    },
+    {
+      "model": "Playmaker 2 (Dual Output)",
+      "code": "VK"
+    },
+    {
+      "model": "Tailgater Pro",
+      "code": "VL"
+    },
+    {
+      "model": "Playmaker 2 (Single Output)",
+      "code": "WJ"
+    },
+    {
+      "model": "Lark Dual OTA Adapter",
+      "code": "WK"
+    },
+    {
+      "model": "AirTV 2",
+      "code": "WM"
+    },
+    {
+      "model": "Parkifi Sensor",
+      "code": "WN"
+    },
+    {
+      "model": "Hopper Snap",
+      "code": "WP"
+    },
+    {
+      "model": "Hopper Link",
+      "code": "2B"
+    },
+    {
+      "model": "Neutral Host Gateway",
+      "code": "2C"
+    },
+    {
+      "model": "Gateway Battery Box",
+      "code": "2D"
+    },
+    {
+      "model": "Butterfly",
+      "code": "2E"
+    },
+    {
+      "model": "Joey1.0",
+      "code": "BC"
+    },
+    {
+      "model": "MT2",
+      "code": "UC"
+    },
+    {
+      "model": "MT1",
+      "code": "UD"
+    },
+    {
+      "model": "MT1",
+      "code": "UE"
+    },
+    {
+      "model": "M34",
+      "code": "UF"
+    },
+    {
+      "model": "AIRTVMINI",
+      "code": "WQ"
+    },
+    {
+      "model": "AIRPLY300",
+      "code": "C1"
+    },
+    {
+      "model": "AIRTV",
+      "code": "WC"
+    },
+    {
+      "model": "SBVIDSTR",
+      "code": "P1"
+    },
+    {
+      "model": "SBCMTS",
+      "code": "P2"
+    },
+    {
+      "model": "SBNTSC1.1",
+      "code": "P4"
+    },
+    {
+      "model": "SBQA161.1",
+      "code": "P5"
+    },
+    {
+      "model": "SBQA481.1",
+      "code": "P6"
+    },
+    {
+      "model": "TG4",
+      "code": "UV"
+    },
+    {
+      "model": "PLYMKESIN",
+      "code": "VJ"
+    },
+    {
+      "model": "HA210RDH",
+      "code": "Q8"
+    },
+    {
+      "model": "C1100Z",
+      "code": "QQ"
+    },
+    {
+      "model": "Macaw",
+      "code": "WR"
+    },
+    {
+      "model": "9500",
+      "code": "X!"
+    },
+    {
+      "model": "SBQAM24",
+      "code": "AP"
+    },
+    {
+      "model": "SBRCVR16",
+      "code": "PE"
+    },
+    {
+      "model": "SBDESCMBL",
+      "code": "PD"
+    },
+    {
+      "model": "SBCHASV2",
+      "code": "PA"
+    },
+    {
+      "model": "SBQA961.1",
+      "code": "P7"
+    },
+    {
+      "model": "SMBRBTXP2",
+      "code": "PX"
+    },
+    {
+      "model": "Exede Modem",
+      "code": "71"
+    },
+    {
+      "model": "Exede Modem",
+      "code": "91"
+    },
+    {
+      "model": "Exede ModemTria",
+      "code": "01"
+    },
+    {
+      "model": "Hopper Plus",
+      "code": "WS"
+    },
+    {
+      "model": "WIFIJOEY4",
+      "code": "XU"
+    },
+    {
+      "model": "JOEY4.0",
+      "code": "XV"
+    },
+    {
+      "model": "ViP211I",
+      "code": "KA"
+    },
+    {
+      "model": "VIP711I",
+      "code": "KB"
+    },
+    {
+      "model": "Joey CR",
+      "code": "BD"
+    }
+  ]
+}

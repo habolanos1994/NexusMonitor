@@ -1,0 +1,210 @@
+{
+  "Cameras": {
+    "TotalReceiversScan": 13739,
+    "TotalSickClarify": 5830,
+    "TotalKeyenceClarify": 11293,
+    "TotalQRA": 4304,
+    "TotalSorter": 8267,
+    "TotalNoRAReceivers": 208
+  },
+  "Models": {
+    "Hopper with Sling": 1292,
+    "Hopper3": 2255,
+    "HOPPER with SLING CR": 1443,
+    "JOEY3.0": 2591,
+    "Wireless Joey": 1442,
+    "WALLY": 648,
+    "undefined": 165,
+    "ABA 1020 (PCI card)": 172,
+    "ViP612": 44,
+    "Joey1.0": 268,
+    "HOPPERDUO": 759,
+    "4kJoey": 71,
+    "Joey CR": 1420,
+    "SUPER JOEY": 178,
+    "ViP722k (LF Main Board)": 132,
+    "JOEY4.0": 201,
+    "Hopper2000": 37,
+    "ViP722k DVR (LF Main Board) w/ DN241 Card": 20,
+    "ViP211k": 67,
+    "ViP211k (LF Main Board)": 38,
+    "Hopper Plus": 213,
+    "ViP222k (LF Main Board)": 6,
+    "ViP722 w/DN241 Card": 49,
+    "ViP722k": 64,
+    "WIFIJOEY4": 83,
+    "ViP211K (LF Main Board) w/ DN241 Card": 33,
+    "ViP612 (LF Main Board)": 6,
+    "Exede Modem": 2,
+    "ViP722k DVR": 14,
+    "ViP211z": 7,
+    "MT2, OTA Module, 2 Tuner, w/ 3/4": 2,
+    "ViP222k": 4,
+    "ViP722 w/DN241 Chip": 2,
+    "ViP222k w/DN241 Card (LF Main Board)": 1,
+    "Dish 311 w/DN241 Card": 1,
+    "DishPro 301 - E": 1,
+    "Wireless Joey Access Point": 1,
+    "ViP222 w/DN241 Chip": 1,
+    "Hopper Snap": 1,
+    "ViP211k w/DN241 Card": 1,
+    "ViP722K w/ DN552 Chip (LF Main Board)": 1,
+    "ViP222k w/DN241 Card": 3
+  },
+  "HourlyCounts": {
+    "0": 0,
+    "1": 0,
+    "2": 0,
+    "3": {
+      "AutoTrack": 3
+    },
+    "4": {
+      "AutoTrack": 1616,
+      "NonValid": 2490,
+      "RSP": 443,
+      "DNS": 353
+    },
+    "5": {
+      "NonValid": 3707,
+      "DNS": 846,
+      "AutoTrack": 2319,
+      "RSP": 334
+    },
+    "6": {
+      "AutoTrack": 1981,
+      "NonValid": 2911,
+      "DNS": 569,
+      "RSP": 369
+    },
+    "7": {
+      "NonValid": 1455,
+      "RSP": 240,
+      "AutoTrack": 948,
+      "DNS": 191
+    },
+    "8": {
+      "NonValid": 351,
+      "AutoTrack": 60,
+      "RSP": 22,
+      "DNS": 19,
+      "AUTO_TRACK": 91,
+      "RSP/SUB": 31
+    },
+    "9": {
+      "NonValid": 140,
+      "RSP": 89,
+      "AutoTrack": 370,
+      "DNS": 2
+    },
+    "10": {
+      "AutoTrack": 129,
+      "RSP": 32,
+      "NonValid": 41
+    },
+    "11": 0,
+    "12": 0,
+    "13": 0,
+    "14": {
+      "AutoTrack": 4
+    },
+    "15": {
+      "AutoTrack": 19
+    },
+    "16": {
+      "AutoTrack": 8
+    },
+    "17": {
+      "AutoTrack": 8
+    },
+    "18": {
+      "AutoTrack": 9
+    },
+    "19": {
+      "AutoTrack": 3
+    },
+    "20": 0,
+    "21": 0,
+    "22": 0,
+    "23": 0
+  },
+  "Employees": {
+    "sa": 18097,
+    "No Owner": 305,
+    "DIAZHOS": 44,
+    "chavmar15": 4,
+    "montrob4": 292,
+    "riosang": 2,
+    "boliarm": 1,
+    "RAMOLUI1": 293,
+    "floykel": 1,
+    "munomon3": 343,
+    "huermar4": 432,
+    "romejoh8": 637,
+    "estreli": 713,
+    "riveces": 6,
+    "munoida": 1,
+    "sancbla": 4,
+    "santpac": 1,
+    "sandkam": 2,
+    "ramiang3": 1,
+    "solibea": 2,
+    "meleant": 2,
+    "lascglo": 2,
+    "joneeri7": 2,
+    "dunason": 1,
+    "pinegua": 1,
+    "lermcar": 2,
+    "barraim": 1,
+    "ELPCELL4": 1,
+    "CALDGAB3": 1,
+    "tatedom": 1,
+    "hernjes24": 1,
+    "alvadan6": 1,
+    "tranmar2": 1,
+    "matalor1": 1,
+    "bratash": 2,
+    "garcmas": 3,
+    "jeffsum1": 2,
+    "ORRMICH": 1,
+    "woffrod": 2,
+    "haffbri": 4,
+    "TORRDAN1": 1,
+    "mcgrmar": 1,
+    "cortgra": 1,
+    "rascedg": 2,
+    "robeven": 1,
+    "castefr2": 1,
+    "calicri": 2,
+    "hermism": 1,
+    "estreli1": 1,
+    "paezang": 214,
+    "HERRSER3": 1,
+    "reyesau1": 2,
+    "kempels": 1,
+    "chavdav4": 1,
+    "ubanrau": 29,
+    "ALACNAT": 101,
+    "lunalui1": 1,
+    "blakaus1": 1,
+    "spartam": 1,
+    "delgsus": 48,
+    "beltjaz": 2,
+    "riveisa4": 1,
+    "flordul": 2,
+    "sosaros1": 1,
+    "mendfra": 25,
+    "lermpau": 24,
+    "SOLINAV": 29,
+    "montlet1": 1,
+    "fernjos8": 1,
+    "guzmelv3": 2,
+    "moncluc": 346,
+    "marqmar12": 145
+  },
+  "Transactions": {
+    "AUTO_TRACK": 7568,
+    "error": 21992,
+    "RSP/SUB": 1560,
+    "DNS": 1980
+  }
+}

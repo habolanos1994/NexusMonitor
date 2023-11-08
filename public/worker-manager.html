@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Worker Manager</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="js/worker-manager.js" defer></script>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Worker Manager</h1>
+        <div class="api-container">
+            <h2>Status of Workers</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Service Name</th>
+                        <th>Status</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody id="workerTable">
+                    <!-- Populated by JavaScript -->
+                </tbody>
+            </table>
+
+            <div class="api-item">
+                <button id="restartAll">Restart All Workers</button>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
